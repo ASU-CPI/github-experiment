@@ -12,4 +12,6 @@ The process of writing the original article was structured as a test a number of
 - can the article can be written in under 2 months from the date that it is publicly deployed to the date it is ready for submission to a journal?
 - can GitHub's network metrics and the evaluation of the group members be used to determine order of authorship?
 - does being listed as an author, in order of contribution, provide sufficient incentive for potential authors to contribute?
+- can any of the "rules of the game" be changed by the members of the group using concensus models of decision-making?
+
 
