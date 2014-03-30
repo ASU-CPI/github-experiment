@@ -1,6 +1,6 @@
 #A Github Experiment: Reporting on an experiment in collaborative group writing
 =================
-This [article](https://github.com/ASU-CPI/github-experiment/blob/master/article.md) documents an experiment in collaborative group writing of an [academic article](https://github.com/ASU-CPI/honest-pi/blob/master/article.md). 
+This [article](https://github.com/ASU-CPI/github-experiment/tree/master/article) documents an experiment in collaborative group writing of an [academic article](https://github.com/ASU-CPI/honest-pi). 
 
 Rather than deciding beforehand who the list of authors will be and then working together to write the article - e.g, by exchanging by email subsequent versions of Word documents with track changes enabled - this experiment opened the writing process to anyone interested in the topic, and used the collaborative writing environment of GitHub to facilitate the process.
 
