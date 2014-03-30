@@ -10,7 +10,13 @@
 
 [Literature Review](https://github.com/ASU-CPI/github-experiment/blob/master/article/litreview.md)
 
-[Structure of Argument](https://github.com/ASU-CPI/github-experiment/blob/master/article/argument.md)
+[Methods](https://github.com/ASU-CPI/github-experiment/blob/master/article/methods.md)
+
+[Data](https://github.com/ASU-CPI/github-experiment/blob/master/article/data.md)
+
+[Analysis](https://github.com/ASU-CPI/github-experiment/blob/master/article/analysis.md)
+
+
 
 [Implications](https://github.com/ASU-CPI/github-experiment/blob/master/article/implications.md)
 
