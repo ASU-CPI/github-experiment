@@ -16,7 +16,7 @@
 
 [Analysis](https://github.com/ASU-CPI/github-experiment/blob/master/article/analysis.md)
 
-
+[Discussion](https://github.com/ASU-CPI/github-experiment/blob/master/article/discussion.md)
 
 [Implications](https://github.com/ASU-CPI/github-experiment/blob/master/article/implications.md)
 
