@@ -11,4 +11,4 @@ This [article](https://github.com/ASU-CPI/github-experiment/tree/master/article)
 
 Rather than deciding beforehand who the list of authors will be and then working together to write the article - e.g, by exchanging by email subsequent versions of Word documents with track changes enabled - this experiment opened the writing process to anyone interested in the topic, and used the collaborative writing environment of GitHub to facilitate the process.
 
-This current article is an evaluation of that process, again open to anyone interested in the topic.
+This current article is an evaluation of that process, again open to anyone interested in the topic. 
