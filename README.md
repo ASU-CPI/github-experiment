@@ -1,4 +1,5 @@
 #A Github Experiment: Reporting on an experiment in collaborative group writing
+version 0.1.0
 
 ###Components
 - [The article itself and the various components](https://github.com/ASU-CPI/github-experiment/tree/master/article)
