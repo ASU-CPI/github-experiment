@@ -1,4 +1,4 @@
-#A Github Experiment: Reporting on an experiment in collaborative group writing
+#An Honest Github Experiment: Reporting on an experiment in collaborative group writing
 version 0.1.0
 
 This article is an evaluation of an experiment in collaborative group writing of an [academic article](https://github.com/ASU-CPI/honest-pi). 
