@@ -1,6 +1,6 @@
 #Project Timeline
 
-- Launch date: April 1, 2014
-- Experiment close: June 30, 2014
+- Launch date: ?
+- Experiment close: two months from launch?
 
 - weekly check-ins, reminders to collaborators, document management tasks.
