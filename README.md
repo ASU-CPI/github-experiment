@@ -1,5 +1,10 @@
 #A Github Experiment: Reporting on an experiment in collaborative group writing
-version 0.1.0
+version 0.1.2
+
+##10 Second Briefing:
+- if you can read this page, you're invited to co-write this [article](https://github.com/ASU-CPI/github-experiment/tree/master/article) with us.
+- the experiment runs from April 1 - July 31, 2014 
+- DAYS REMAINING IN EXPERIMENT: 122 (deadline = July 31 2014)
 
 ###Components
 - [The article itself and the various components](https://github.com/ASU-CPI/github-experiment/tree/master/article)
