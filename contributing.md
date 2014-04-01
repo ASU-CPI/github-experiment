@@ -11,6 +11,6 @@ You can also help to build the data that will support this  part of this experim
 
 But if you want to learn a bit about GitHub first, try our [beginner tutorial](http://nextpolicychallenge.github.io/tutorial.html).
 
-Formatting in GitHub requires the use of Markdown. But don't let that scare you. You can craft in Word, and then convert that to Markdown with this [handy app](http://word-to-markdown.herokuapp.com/).
+Formatting in GitHub requires the use of Markdown. But don't let that scare you. You can craft in Word, and then convert that to Markdown with this [handy app](http://word-to-markdown.herokuapp.com/). 
 
 *A key guideline for contributing*: GitHub is not an ideal platform for text collaboration. One big limitation is that multiple changes to one file submitted in a pull request cannot be selectively "accepted" as with, for example, a Word document. To accommodate this, changes submitted as pull requests should be limited to one line or, at most, one paragraph. For more substantial changes (e.g., discussions about major structural changes), you can [raise an issue](https://github.com/ASU-CPI/github-experiment/issues) or talk about it on the [wiki](https://github.com/ASU-CPI/github-experiment/wiki). 
