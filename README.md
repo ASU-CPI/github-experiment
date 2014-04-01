@@ -24,7 +24,7 @@ The products from this experiment will be two articles to be submitted to academ
 
 Both articles will be written entirely within the GitHub platform. We are inviting anyone to join us as a co-author on either or both of these articles. 
 
-We are approaching this experiment in an exploratory fashion. While we are aware of many examples of the use of GitHub for collaborative writing, we are not aware of many successful truly open collaborative writing efforts on GitHub that have succeeded. 
+We are approaching this experiment in an exploratory fashion. While we are aware of many examples of the use of GitHub for collaborative writing, we are not aware of many successful truly open collaborative writing efforts on GitHub that have succeeded.
 
 We fully anticipate that persuading colleagues to participate in this experiment will not be easy; but we believe that there is enormous potential in this approach. Above all, however, this is truly an experiment - we don't know what will happen. Will the group fragment and fail to meet its objective? Will conflicts be unresolvable? Will authorship become too contentious to determine? Can traditional academic incentives attached to authorship be accommodated within GitHub? Will anyone contribute? Will too many show up?
 
