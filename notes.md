@@ -9,3 +9,5 @@ This is a place for recording observations on the conduct of this experiment. Pl
 - [licensing](https://github.com/ASU-CPI/github-experiment/blob/master/licensing.md) was establish, but no CLA was implemented (too legalistic and would likely have reduced participation). 
 - contributors were solicited through an open call (e.g., via the [CPI blog](https://cpi.asu.edu/honest-github-experiment), [Twitter](https://twitter.com/ASU_CPI/statuses/451014461873487872), etc.) and targeted invitations.
 - the management of contributions was left undefined. A PMC (project management committee) consisted of [one collaborator](https://github.com/JustinLongo) at project start, with the anticipation that additional members would be added.
+- sectioning the article made referencing difficult
+- 
