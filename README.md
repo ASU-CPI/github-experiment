@@ -1,17 +1,18 @@
 #A Github Experiment: Reporting on an experiment in collaborative group writing
-version 0.1.2
+version 0.1.3
 
 ##10 Second Briefing:
 - if you can read this page, you're invited to co-write this [article](https://github.com/ASU-CPI/github-experiment/tree/master/article) with us.
+- if you're really stuck, ask a question on the [wiki - question page](https://github.com/ASU-CPI/honest-pi/wiki/Questions).
 - the experiment runs from April 1 - July 31, 2014 
-- DAYS REMAINING IN EXPERIMENT: 121 (deadline = July 31 2014)
+- DAYS REMAINING IN EXPERIMENT: 118 (deadline = July 31 2014)
 
-###Components
-- [The article itself and the various components](https://github.com/ASU-CPI/github-experiment/tree/master/article)
-- [How to contribute](https://github.com/ASU-CPI/github-experiment/blob/master/contributing.md)
-- [Rules for participating](https://github.com/ASU-CPI/github-experiment/blob/master/rules.md)
+###Places to Get Started
+- [This folder contains the article itself and its various components.](https://github.com/ASU-CPI/github-experiment/tree/master/article)
+- [These are some notes on how to contribute.](https://github.com/ASU-CPI/github-experiment/blob/master/contributing.md)
+- [These are the "rules" for participating.](https://github.com/ASU-CPI/github-experiment/blob/master/rules.md)
 - [Research Questions](https://github.com/ASU-CPI/github-experiment/blob/master/researchquestions.md)
-- [Licensing Information](https://github.com/ASU-CPI/github-experiment/blob/master/licensing.md)
+- [And these are some research questions we hope to address.](https://github.com/ASU-CPI/github-experiment/blob/master/licensing.md)
 
 ###An Honest GitHub Experiment
 
