@@ -1,5 +1,5 @@
 #Notes on Creating, Maintaining, Participating in and Completing this Experiment
-version 0.1.0
+version 0.1.1
 
 This is a place for recording observations on the conduct of this experiment. Please add to this. Observations are currently in no particular order:
 
@@ -10,4 +10,4 @@ This is a place for recording observations on the conduct of this experiment. Pl
 - contributors were solicited through an open call (e.g., via the [CPI blog](https://cpi.asu.edu/honest-github-experiment), [Twitter](https://twitter.com/ASU_CPI/statuses/451014461873487872), etc.) and targeted invitations.
 - the management of contributions was left undefined. A PMC (project management committee) consisted of [one collaborator](https://github.com/JustinLongo) at project start, with the anticipation that additional members would be added.
 - sectioning the article made referencing difficult
-- 
+- GitHub [removed the internal private messaging function in April 2012](https://github.com/blog/1091-spring-cleaning). Interesting rationale. So contributor-to-contributor communication will have to be by email. 
