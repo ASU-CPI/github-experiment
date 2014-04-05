@@ -7,6 +7,15 @@ version 0.1.3
 - the experiment runs from April 1 - July 31, 2014 
 - DAYS REMAINING IN EXPERIMENT: 118 (deadline = July 31 2014)
 
+##Update
+If you want an easier way to make changes, try this: 
+
+1. Make sure you are logged into GitHub.
+2. In another tab or window go to http://prose.io/ and click on "Authorize of GitHub". 
+3. If all goes according to plan, you should then be able to go to http://prose.io/#ASU-CPI/github-experiment and see a clearer path to edit any of the files you want. 
+4. Just click on a file, start adding, deleting, changing ... 
+5. When done, click the save icon on the right hand side, then click on the "Commit" button. 
+
 ###Places to Get Started
 - [This folder contains the article itself and its various components.](https://github.com/ASU-CPI/github-experiment/tree/master/article)
 - [These are some notes on how to contribute.](https://github.com/ASU-CPI/github-experiment/blob/master/contributing.md)
