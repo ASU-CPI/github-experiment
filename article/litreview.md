@@ -7,6 +7,8 @@ version 0.1.1
 
 [The right tool for the job: Five collaborative writing tools for academics](http://blogs.lse.ac.uk/impactofsocialsciences/2014/04/04/five-collaborative-writing-tools-for-academics/) - Christof Schöch.
 
+[Open Source Scholarship](http://www.hybridpedagogy.com/Journal/open-source-scholarship/) - Kris Shaffer
+
 [GitHub for Academics: the open-source way to host, create and curate knowledge](http://blogs.lse.ac.uk/impactofsocialsciences/2013/06/04/github-for-academics/) - Kris Shaffer
 
 [We Need a Github of Science](http://marciovm.com/i-want-a-github-of-science/) - Marcio von Muhlen
