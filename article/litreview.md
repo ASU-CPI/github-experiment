@@ -7,9 +7,13 @@ version 0.1.1
 
 [The right tool for the job: Five collaborative writing tools for academics](http://blogs.lse.ac.uk/impactofsocialsciences/2014/04/04/five-collaborative-writing-tools-for-academics/) - Christof Schöch.
 
+[GitHub for Academics: the open-source way to host, create and curate knowledge](http://blogs.lse.ac.uk/impactofsocialsciences/2013/06/04/github-for-academics/) - Kris Shaffer
+
 [We Need a Github of Science](http://marciovm.com/i-want-a-github-of-science/) - Marcio von Muhlen
 
-[The Limitations of GitHub for Writers](http://chronicle.com/blogs/profhacker/the-limitations-of-github-for-writers/48299) - Konrad M. Lawson
+[Six posts by Konrad Lawson in the Chronicle of Higher Education on Using Github in Academia](http://chronicle.com/blogs/profhacker/tag/github101) - Konrad M. Lawson
+
+
 
 Opening Science: The Evolving Guide on How the Web is Changing Research, Collaboration and Scholarly Publishing. Edited by Sönke Bartling & Sascha Friesike.
 [http://book.openingscience.org/](http://book.openingscience.org/) and
