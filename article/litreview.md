@@ -15,7 +15,9 @@ version 0.1.1
 
 [Six posts by Konrad Lawson in the Chronicle of Higher Education on Using Github in Academia](http://chronicle.com/blogs/profhacker/tag/github101) - Konrad M. Lawson
 
+[See use of GitHub by candidate for US House of Representatives to discuss issues](https://github.com/coleforcongress/issues) 
 
+[Not just a code repository: GitHub's potential as a social tool for government](http://www.fiercegovernmentit.com/story/guest-opinion-not-just-code-repository-githubs-potential-social-tool-govern/2014-04-07)
 
 Opening Science: The Evolving Guide on How the Web is Changing Research, Collaboration and Scholarly Publishing. Edited by Sönke Bartling & Sascha Friesike.
 [http://book.openingscience.org/](http://book.openingscience.org/) and
