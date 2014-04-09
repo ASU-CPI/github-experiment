@@ -22,4 +22,3 @@ version 0.1.1
 - sent to 23 members of the Center for Policy Informatics, Google Group
 - sent to Ines Mergel, Associate Prof., Syracus University.
 - sent to Rod Dobell, Emeritus Prof., University of Victoria.
-- 
