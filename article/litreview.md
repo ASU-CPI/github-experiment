@@ -19,6 +19,8 @@ version 0.1.1
 
 [Not just a code repository: GitHub's potential as a social tool for government](http://www.fiercegovernmentit.com/story/guest-opinion-not-just-code-repository-githubs-potential-social-tool-govern/2014-04-07)
 
+[Using Github to improve communication in an organization](http://aaronparecki.com/articles/2013/02/28/2/using-github-to-improve-communication-in-an-organization) - AAron Parecki
+
 Opening Science: The Evolving Guide on How the Web is Changing Research, Collaboration and Scholarly Publishing. Edited by Sönke Bartling & Sascha Friesike.
 [http://book.openingscience.org/](http://book.openingscience.org/) and
 [https://github.com/openingscience/book](https://github.com/openingscience/book)
