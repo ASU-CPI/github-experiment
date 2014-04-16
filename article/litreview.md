@@ -23,6 +23,8 @@ version 0.1.1
 
 [Collaborative coding and wedding invitations: GitHub goes mainstream](http://www.wired.co.uk/news/archive/2013-09/02/github-mainstream) - Robert McMillan
 
+[Hacking the Political Platform: Why One Candidate Is Using Github](http://www.theatlantic.com/technology/archive/2014/04/hacking-the-political-platform-why-one-candidate-is-using-github/360501/).
+
 Opening Science: The Evolving Guide on How the Web is Changing Research, Collaboration and Scholarly Publishing. Edited by Sönke Bartling & Sascha Friesike.
 [http://book.openingscience.org/](http://book.openingscience.org/) and
 [https://github.com/openingscience/book](https://github.com/openingscience/book)
