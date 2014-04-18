@@ -5,6 +5,8 @@ version 0.1.1
 
 [Collaborative Academic Writing: Tools and Features](https://zenodo.org/record/8524?ln=en#.Uz7ela1dU2K) - Christof Schöch.
 
+[Creating an efficient workflow for publishing scholarly papers on Wikipedia](http://blogs.lse.ac.uk/impactofsocialsciences/2014/04/17/publishing-scholarly-papers-with-and-on-wikipedia/) - Martin Poulter
+
 [The right tool for the job: Five collaborative writing tools for academics](http://blogs.lse.ac.uk/impactofsocialsciences/2014/04/04/five-collaborative-writing-tools-for-academics/) - Christof Schöch.
 
 [Open Source Scholarship](http://www.hybridpedagogy.com/Journal/open-source-scholarship/) - Kris Shaffer
