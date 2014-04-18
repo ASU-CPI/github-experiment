@@ -22,3 +22,7 @@ version 0.1.1
 - sent to 23 members of the Center for Policy Informatics, Google Group
 - sent to Ines Mergel, Associate Prof., Syracus University.
 - sent to Rod Dobell, Emeritus Prof., University of Victoria.
+
+###Other "Events"
+- 30 minute working session with CPI lab, April 18
+- follow-up to CPI Lab after April 17 session: each member asked to spend one hour in the following week working on the repo.
