@@ -11,3 +11,4 @@ This is a place for recording observations on the conduct of this experiment. Pl
 - the management of contributions was left undefined. A PMC (project management committee) consisted of [one collaborator](https://github.com/JustinLongo) at project start, with the anticipation that additional members would be added.
 - sectioning the article made referencing difficult
 - GitHub [removed the internal private messaging function in April 2012](https://github.com/blog/1091-spring-cleaning). Interesting rationale. So contributor-to-contributor communication will have to be by email. 
+- One way that GitHub is better than wikis is that two people can work on the same file at the same time and those changes can be merged after the fact. This is fine when people are contributing different things to the same file. But if two of us work on the references at the same time, this will just be duplicated effort. So what's a good practice to follow: "check out" files?
