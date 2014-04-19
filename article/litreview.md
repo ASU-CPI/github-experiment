@@ -27,6 +27,8 @@ version 0.1.1
 
 [Hacking the Political Platform: Why One Candidate Is Using Github](http://www.theatlantic.com/technology/archive/2014/04/hacking-the-political-platform-why-one-candidate-is-using-github/360501/).
 
+An alternative: [Authorea](https://www.authorea.com/); see [Can The "GitHub For Science" Convince Researchers To Open-Source Their Data?](http://www.fastcolabs.com/3016677/can-the-github-for-science-convince-researchers-to-open-source-their-data)
+
 Opening Science: The Evolving Guide on How the Web is Changing Research, Collaboration and Scholarly Publishing. Edited by Sönke Bartling & Sascha Friesike.
 [http://book.openingscience.org/](http://book.openingscience.org/) and
 [https://github.com/openingscience/book](https://github.com/openingscience/book)
