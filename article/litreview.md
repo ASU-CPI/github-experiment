@@ -11,6 +11,8 @@ version 0.1.1
 
 [Open Source Scholarship](http://www.hybridpedagogy.com/Journal/open-source-scholarship/) - Kris Shaffer
 
+[Why climate deniers are winning: The twisted psychology that overwhelms scientific consensus](http://www.salon.com/2014/04/19/why_climate_deniers_are_winning_the_twisted_psychology_that_overwhelms_scientific_consensus/) - Paul Rosesnerge
+
 [GitHub for Academics: the open-source way to host, create and curate knowledge](http://blogs.lse.ac.uk/impactofsocialsciences/2013/06/04/github-for-academics/) - Kris Shaffer
 
 [We Need a Github of Science](http://marciovm.com/i-want-a-github-of-science/) - Marcio von Muhlen
