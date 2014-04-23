@@ -12,3 +12,5 @@ This is a place for recording observations on the conduct of this experiment. Pl
 - sectioning the article made referencing difficult
 - GitHub [removed the internal private messaging function in April 2012](https://github.com/blog/1091-spring-cleaning). Interesting rationale. So contributor-to-contributor communication will have to be by email. 
 - One way that GitHub is better than wikis is that two people can work on the same file at the same time and those changes can be merged after the fact. This is fine when people are contributing different things to the same file. But if two of us work on the references at the same time, this will just be duplicated effort. So what's a good practice to follow: "check out" files?
+- Having a difficult time finding my voice as an author in the process of writing. Everything feels disconnected, and I am not sure what would be the most powerful statements to add.  
+- Perhaps a solution to comment above would be to focus the entire group on one section at a time. (Intro would be one of the last)
