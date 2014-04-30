@@ -5,7 +5,7 @@ version 0.1.3
 - if you can read this page, you're invited to co-write this [article](https://github.com/ASU-CPI/github-experiment/tree/master/article) with us.
 - if you're really stuck, ask a question on the [wiki - question page](https://github.com/ASU-CPI/honest-pi/wiki/Questions).
 - the experiment runs from April 1 - July 31, 2014 
-- DAYS SINCE EXPERIMENT START = 17
+- DAYS SINCE EXPERIMENT START = 28
 - DAYS REMAINING IN EXPERIMENT: 93 (deadline = July 31 2014) 
 
 ##Update - Working with Prose.io
