@@ -6,7 +6,7 @@ version 0.1.3
 - if you're really stuck, ask a question on the [wiki - question page](https://github.com/ASU-CPI/honest-pi/wiki/Questions).
 - the experiment runs from April 1 - July 31, 2014 
 - DAYS SINCE EXPERIMENT START = 28
-- DAYS REMAINING IN EXPERIMENT: 86 (deadline = July 31 2014) 
+- DAYS REMAINING IN EXPERIMENT: 85 (deadline = July 31 2014) 
 
 ##Update - Working with Prose.io
 If you want an easier way to make changes, try this: 
